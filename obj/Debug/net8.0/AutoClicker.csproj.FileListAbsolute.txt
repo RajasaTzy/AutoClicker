@@ -1,0 +1,14 @@
+D:\repos\AutoClicker\bin\Debug\net8.0\AutoClicker.exe
+D:\repos\AutoClicker\bin\Debug\net8.0\AutoClicker.deps.json
+D:\repos\AutoClicker\bin\Debug\net8.0\AutoClicker.runtimeconfig.json
+D:\repos\AutoClicker\bin\Debug\net8.0\AutoClicker.dll
+D:\repos\AutoClicker\bin\Debug\net8.0\AutoClicker.pdb
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.AssemblyInfoInputs.cache
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.AssemblyInfo.cs
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.csproj.CoreCompileInputs.cache
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.dll
+D:\repos\AutoClicker\obj\Debug\net8.0\refint\AutoClicker.dll
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.pdb
+D:\repos\AutoClicker\obj\Debug\net8.0\AutoClicker.genruntimeconfig.cache
+D:\repos\AutoClicker\obj\Debug\net8.0\ref\AutoClicker.dll
